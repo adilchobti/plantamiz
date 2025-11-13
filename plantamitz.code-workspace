@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.h": "c",
+            "*.c": "c"
+        },
+        "C_Cpp.default.cStandard": "c99",
+        "C_Cpp.default.includePath": [
+            "${workspaceFolder}/src"
+        ],
+        "terminal.integrated.cwd": "${workspaceFolder}"
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-vscode.cpptools"
+        ]
+    }
+}
