@@ -10,7 +10,7 @@
 #include "platform.h"
 #include "game.h"
 #include "utils.h"
-
+ 
 int main(void) {
     /* Init console */
     plt_init_console();
