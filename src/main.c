@@ -5,7 +5,7 @@
 
 #include "board.h"
 #include "match.h"
-#include "contracts.h"
+#include "contracts.h" 
 #include "save.h"
 #include "platform.h"
 #include "game.h"
