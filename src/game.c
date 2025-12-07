@@ -14,7 +14,7 @@ static void init_remaining_from_contract(GameState* g) {
     g->remainO = g->c.targetO;
     g->remainM = g->c.targetM;
 }
-
+ 
 int game_init(GameState* g, const char* player, int levelIndex) {
     (void)player; // pas utilisé pour le moment
 
